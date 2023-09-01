@@ -1,0 +1,84 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.container
+{
+    
+    width: 100vw;
+    overflow-x: none;
+   
+}
+.navcontainer
+{
+    width: 100vw;
+    background-color: rgb(38, 128, 120);
+    min-height: 80px;
+}
+#nav
+{
+    margin-left: 15px;
+    margin-right: 15px;
+    display: inline-block;
+    font-size: 25px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    
+    
+    
+}
+#brandname
+{
+    font-size: 50px;
+    font-family: cursive;
+    margin-top: 5px;
+    color: white;
+}
+.footer
+{
+    
+    background-color: rgb(38, 128, 120);
+    color: azure;
+    width: 100%;
+    text-align: center;
+    min-height: 25px;
+    font-size: 30px;
+   
+    
+}
+#nav1
+{
+    margin-top: 20px;
+    padding: 10px;
+    display: flex;
+    gap: 50px;
+    
+   
+}
+a
+{
+    text-decoration: none;
+    color: azure;
+}
+   
+  body {
+    background-image: url('./Green\ and\ White\ Photographic\ Blogger\ Bio-Link\ Website.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+     }
+     pre{
+      text-align: center;
+      margin-top: 430px;
+      margin-left: 500px;
+      font-size: 50px;
+      color: azure;
+      font-family: cursive;
+      text-shadow: 2px 1px 2px white;
+     }
+
+  
